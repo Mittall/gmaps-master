@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## GMaps4Rails, ActiveRecord, Plain UI Example App
 
 ## Related GMaps4Rails Projects
@@ -213,3 +214,6 @@ If you do not see the individual user datapoints, then something is wrong.
 
 
 
+=======
+# gmaps-master
+>>>>>>> 07329eca6c7c4e4f00114e2da95a20b8d5d11c01
